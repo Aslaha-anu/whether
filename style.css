@@ -1,0 +1,220 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: rgb(115, 111, 111);
+    border-radius:50px;
+    background-color: rgb(33, 32, 32);
+    height: 50px;
+    width: 450px;
+    border: none;
+    padding-left: 5%;
+    
+  }
+  .but1{
+    
+        position: absolute;
+        top: 20%;
+        left: 90%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        color: rgb(115, 111, 111);
+        border-radius:50px;
+        background-color: rgb(33, 32, 32);
+        height: 50px;
+        width: 50px;
+        padding-top: 1%;
+        padding-left: 2%;
+        border: none;
+        
+  }
+ .centerr{
+    position: absolute;
+   padding-top: 100%;
+   margin-left: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    color: white;
+    font-weight: bolder;
+  }
+  .center1{
+    position: absolute;
+   padding-top: 10%;
+   margin-left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    font-weight: bolder;
+  }
+  .center2{
+    position: absolute;
+  padding-top: 40%;
+   margin-left: 25%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    font-weight:200px;
+  }
+  .center3{
+    position: absolute;
+    padding-top: 70%;
+   margin-left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    font-weight:200px;
+  }
+  .center4{
+    position: absolute;
+    padding-top: 100%;
+   margin-left: 25%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    font-weight:200px;
+
+  } 
+  .center5{
+    position: absolute;
+    padding-top: 130%;
+   margin-left: 25%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: white;
+    font-weight:200px;
+
+  } 
+  .img2{
+    height: 500px;
+    width: 600px;
+    background-color: rgb(16, 16, 16);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    border-radius: 10%;
+    backdrop-filter: blur(1px);
+    background: rgba(12, 12, 12, 0.1)
+    
+
+  }
+  @media (max-width:480px) {
+    
+      body{
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        width: 100%;
+    }
+    .centered {
+        position: absolute;
+        top: 20%;
+        left: 45%;
+        transform: translate(-50%, -50%);
+        font-size: 30px;
+        color: rgb(115, 111, 111);
+        border-radius:50px;
+        background-color: rgb(33, 32, 32);
+        height: 50px;
+        width: 300px;
+        border: none;
+        padding-left: 5%;
+        
+      }
+      .but1{
+        
+            position: absolute;
+            top: 20%;
+            left: 90%;
+            transform: translate(-50%, -50%);
+            font-size: 20px;
+            color: rgb(115, 111, 111);
+            border-radius:50px;
+            background-color: rgb(33, 32, 32);
+            height: 50px;
+            width: 50px;
+            padding-top: 1%;
+            padding-left: 2%;
+            border: none;
+            
+      }
+     .centerr{
+        position: absolute;
+       padding-top: 150%;
+       margin-left: 40%;
+        transform: translate(-50%, -50%);
+        font-size: 40px;
+        color: white;
+        font-weight: bolder;
+      }
+      .center1{
+        position: absolute;
+       padding-top: 10%;
+       margin-left: 20%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        color: white;
+        font-weight: bolder;
+      }
+      .center2{
+        position: absolute;
+      padding-top: 40%;
+       margin-left: 25%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        color: white;
+        font-weight:200px;
+      }
+      .center3{
+        position: absolute;
+        padding-top: 70%;
+       margin-left: 20%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        color: white;
+        font-weight:200px;
+      }
+      .center4{
+        position: absolute;
+        padding-top: 100%;
+       margin-left: 25%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        color: white;
+        font-weight:200px;
+    
+      } 
+      .center5{
+        position: absolute;
+        padding-top: 130%;
+       margin-left: 25%;
+        transform: translate(-50%, -50%);
+        font-size: 20px;
+        color: white;
+        font-weight:200px;
+    
+      } 
+      .img2{
+        height: 500px;
+        width: 400px;
+        background-color: rgb(16, 16, 16);
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 70px;
+        border-radius: 10%;
+        backdrop-filter: blur(1px);
+        background: rgba(12, 12, 12, 0.1)
+        
+    
+      }
+    }
+  
